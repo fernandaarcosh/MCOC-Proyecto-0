@@ -11,7 +11,7 @@ Se obtiene el error porcentual/relativo de los valores de la siguiente manera:
 
 Este se observa de manera gráfica, en el archivo adjunto.
 Y con los siguientes resultados obtenidos por consola.
-'''
+```
 Valores reales:  [7.217340000000001e-10, 3.82569e-12, 1.89061e-14, 3.2645300000000006e-17] 
 
 Valores exactos: [7.21734273e-10, 3.8256941440000006e-12, 1.8906130944000005e-14, 3.2645273536e-17] 
@@ -31,7 +31,7 @@ Errores 32 bits (exacto):
 
 Errores 64 bits (exacto): 
 [0.0, 0.0, 0.0, 0.0] 
-'''
+```
 # Recursos
  [https://en.wikipedia.org/wiki/Loss_of_significance]
  
