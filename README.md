@@ -1,4 +1,5 @@
 # MCOC-Proyecto-0
+Proyecto 0 Métodos Computacionales para Obras Civiles
 # Introducción
 La idea del proyecto mostrado a continuación es mostrar la perdida por significancia que se encuentra en típicas operaciones aritméticas.
 # Ejemplo (Redacción de idea y procedimiento)
