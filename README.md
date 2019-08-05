@@ -36,8 +36,8 @@ Errores 64 bits (exacto):
 ```
 # Recursos
 
- [https://en.wikipedia.org/wiki/Loss_of_significance]
- [https://www.youtube.com/watch?v=PZRI1IfStY0&feature=youtu.be]
- [https://www.youtube.com/watch?v=f4ekifyijIg&feature=youtu.be]
- [https://www.youtube.com/watch?v=782QWNOD_Z0&feature=youtu.be]
+ - [https://en.wikipedia.org/wiki/Loss_of_significance]
+ - [https://www.youtube.com/watch?v=PZRI1IfStY0&feature=youtu.be]
+ - [https://www.youtube.com/watch?v=f4ekifyijIg&feature=youtu.be]
+ - [https://www.youtube.com/watch?v=782QWNOD_Z0&feature=youtu.be]
 
