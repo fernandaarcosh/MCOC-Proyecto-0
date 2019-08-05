@@ -6,9 +6,11 @@ Para esta demostración se utilizó la función cúbica sobre 4 valores, los cua
 Finalmente se calcularon los errores que se tiene con el valor real y los sp.float encontrados, y entre el valor exacto y los sp.float de 32 y 64, como es de esperarse el error entre el valor exacto y el de 64 bits será de 0.
 # Resultados
 Se obtiene el error porcentual/relativo de los valores de la siguiente manera:
+```
 (abs(valores_32[i] - valor_real[i]))/valor_real[i])*100)
-(abs(valores_32[j] - valor_exacto[j]))/valor_exacto[j])*100)
 
+(abs(valores_32[j] - valor_exacto[j]))/valor_exacto[j])*100)
+```
 Este se observa de manera gráfica, en el archivo adjunto.
 Y con los siguientes resultados obtenidos por consola.
 ```
